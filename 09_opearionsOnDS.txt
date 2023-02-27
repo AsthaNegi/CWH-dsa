@@ -1,0 +1,15 @@
+operations on data structures
+
+1 traversal 
+2 searching 
+       a linear search 
+       b binary search 
+
+3 insertion 
+
+              case 1 when order is maintained 
+              case 2 when order is not maintained 
+                              best case and worst case in botyh cases  
+4 deletion  
+
+5 sorting 
